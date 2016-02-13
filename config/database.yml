@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: diary_d
+  host: localhost
+  username: postgres
+  password: password
+
+test:
+  adapter: postgresql
+  database: diary_t
+  host: localhost
+  username: postgres
+  password: password
